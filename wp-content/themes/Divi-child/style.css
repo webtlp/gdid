@@ -1,0 +1,41 @@
+/*
+ Theme Name:   Divi Child
+ Theme URI:    
+ Description:  Divi Child Theme
+ Author:       Ophélie
+ Template:     Divi
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         
+ Text Domain:  divi-child
+*/
+.et_portfolio_image{
+  padding:10px;
+}
+
+.menu-item-object-page:hover{
+ color:#ea833f;
+}
+
+/*<li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490"><a href="https://gdid-ophelwp.c9users.io/qui-sommes-nous/historique/">Historique</a></li>*/
+
+
+#top-header{background:#111!important;} 
+.blue{color:#0398CC;}
+
+.menu-item-46>a{
+    margin-right: 15px;
+padding:10px!important;
+background:#FFAD2D!important;
+
+}
+.menu-item-47>a{
+    margin-right: 20px;
+padding:10px!important;
+background:#8CC63E!important;
+
+}
+
+#top-header a{font-size:16px!important;}
+#main-header{top:80px;}
